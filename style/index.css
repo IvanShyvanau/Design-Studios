@@ -10,11 +10,9 @@ body{
   background-color: #333333;
   width: 100%;
   height: 133px;
+  box-shadow: 0px 3px 3px 0px rgba(50, 50, 50, 0.75);
 }
 
-.header-logo{
-  
-}
 
 .text{
   width: 337px;
@@ -195,4 +193,153 @@ color:#EEEEEE;
   border-bottom: 2.5px dotted #CCCCCC;
   margin-left: 66px;
   margin-top: 425px;
+}
+
+.first-column{
+  width: 446px;
+  height: 370px;
+  float: left;
+}
+
+
+.loyouts-title_small{
+  margin-left: 69px;
+  margin-top: 36px;
+  color: #555555;
+  opacity: 1;
+  font-size: 24px;
+  text-align: left;
+
+}
+
+.testimonial-one{
+  width: 439px;
+  height: 84px;
+  margin-top: 29px;
+  margin-left: 69px;
+}
+
+.image{
+  width: 84px;
+  height: 84px;
+  background-color: #CCCCCC;
+  opacity: 1;
+  float: left;
+}
+
+.testimonial-text{
+  width: 328px;
+  margin-left: 111px;
+  font-size: 13px;
+  text-align: left;
+  color: #555555;
+}
+
+.testimonial-name{
+  width: 120px;
+  height: 32px;
+  font-size: 12px;
+  float: left;
+  margin-left: 27px;
+  margin-top: 16px;
+}
+
+.job{
+  color: #0076A3;
+}
+
+.testimonial-two{
+  width: 439px;
+  height: 84px;
+  float: left;
+  margin-top: 38px;
+  margin-left: 70px;
+
+}
+
+.testimonial-thre{
+  float: left;
+  margin-left: 70px;
+  margin-top: 33px;
+}
+
+
+
+.border-column{
+  width: 4px;
+  height: 385px;
+  border-right: 3px dotted #CCCCCC;
+  float: left;
+  margin-left: 60px;
+  margin-top: 31px;
+}
+
+.second-column{
+  width: 432px;
+  height: 370px;
+  float:left;
+  margin-left: 45px;
+  margin-top: 36px;
+}
+
+.featured-project{
+  color: #555555;
+  font-size: 17px;
+  width: 150px;
+  height: 22px;
+  text-align: left;
+}
+
+.yoshi-online{
+  width: 302px;
+  height: 20px;
+  font-size: 16px;
+  color: #888888;
+}
+
+.featured-image{
+  background-image: url(/image/1.png);
+  widows: 430px;
+  height: 206px;
+}
+
+.featured-text{
+  color: #555555;
+  width: 427px;
+  height: 55px;
+  font-size: 14px;
+  text-align: left;
+  margin-top: 15px;
+}
+
+
+.featured-links{
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+.featured-link{
+  text-decoration: none;
+  color: #00AEEF;
+  font-style: 12px;
+}
+.featured-link:hover{
+  text-decoration: underline;
+}
+
+
+.border-end{
+  width: 966px;
+  height: 5px;
+  border-bottom: 3px dotted #CCCCCC;
+  margin-left: 64px;
+  margin-top: 448px;
+}
+
+.fotter-text{
+  color: #888888;
+  font-size: 16px;
+  margin-left: 63px;
+  margin-top: 18px;
+
 }
